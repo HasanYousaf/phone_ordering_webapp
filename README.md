@@ -1,4 +1,3 @@
-﻿# phone_ordering_webapp
 # This web application facilitates phone purchases.
 # Presentation Layer: HTML and CSS
 # Web Layer: HTML and Java
